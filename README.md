@@ -23,3 +23,4 @@ In this project I focused on cloning the Google interface. It has the following 
 Learning HTML5 standard tags and CSS3 styles.
 
 ## 4. Link to Demo
+Here you can visualize my finished project:  [Google Cloning](https://googlecloning.netlify.app/)
